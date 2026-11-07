@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+data/
+outputs/
+catboost_info/
+*.csv
+*.parquet
+*.feather
+*.pkl
+*.joblib
+*.log
+submission*.csv
+
